@@ -1,0 +1,151 @@
+body 	{
+	background-color: white;
+	background: url(../img/sativa.png);
+	margin: auto;
+}
+
+nav	{
+	box-shadow: 0px 2px 10px rgba( 0, 0, 0, 0.2 );
+	background-color: #0082e6;
+	z-index: 999;
+	position: fix
+}
+
+
+.collapse	{
+	position: relative;
+}
+
+.namatoko	{
+	font-size: 25px;
+	font-weight: bold;
+	color: white;
+	margin-right: 50px;
+	position: absolute;
+	top: -1px;
+}
+
+.alamat	{
+	top: 15px;
+	left: 2px;
+	right: -50px;
+	position: relative;
+	margin-top: 20px;
+	color: white;
+}
+
+.collapse ul	{
+	margin-left: 380px;
+	position: relative;
+}
+
+a:hover {
+	background-color: #0269b8;
+}
+
+.card	{
+	margin-top: 40px;
+}
+
+.card-header	{
+	background-color: #0082e6;
+	color: white;
+}
+
+.card-body  {
+    box-shadow: 0px 7px 15px rgba( 0, 0, 0, 0.2 );
+}
+
+.btn-tambahdata  {
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+table th    {
+    text-align: center;
+}
+
+table td    {
+    text-align: center;
+}
+
+.footer p {
+    font-size: 12px;
+    text-align: center;
+    margin-top: 18px;
+}
+
+.gambar	{
+	width: 100%;
+	margin: 0;
+	background-color: #fff;
+	position: relative;
+	text-align: center;
+	color: white;
+	z-index: 150;
+}
+
+.hero	{
+	height: 378px;
+	background-image: url(../img/hero.jpg);
+	background-size: cover;
+	background-position: 0 -350px;
+}
+
+h3 	{
+	top: 50%;
+  	left: 50%;
+  	transform: translate(-50%, -50%);
+	position: absolute;
+	font-size: 50px;
+}
+
+h2	{
+	color: #0082e6;
+}
+
+b 	{
+	color: #0082e6;
+}
+
+.nama11 b 	{
+	color: #212529;
+}
+
+.tisi	{
+	background-color: white;
+	margin: auto;
+	width: 1250px;
+	box-shadow: 0px 7px 15px rgba( 0, 0, 0, 0.2 );
+}
+
+.isi	{
+	width: 1100px;
+	height: 100%;
+	margin: auto;
+
+}
+
+.namakelompok	{
+	text-align: center;
+}
+
+.nama11 {
+	text-align: center;
+}
+
+.gotopbtn{
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  background: #0082e6;
+  bottom: 0;
+  right: 30px;
+
+  text-decoration: none;
+  text-align: center;
+  line-height: 50px;
+  color: white;
+  font-size: 22px;
+}
+
